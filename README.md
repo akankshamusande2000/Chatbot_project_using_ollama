@@ -91,7 +91,13 @@ ws://your-domain/ws/chat/
 - **Multilingual support** 
 - **Better UI/UX** 
 - **Deployment on GCP Cloud Run** 
-- **User authentication & profiles** 
+- **User authentication & profiles**
+- **Faster Model Responses (Optimizing Mistral in Ollama)**  
+  - Use a lighter version of the model to improve speed  
+  - Enable GPU support if available for better performance  
+  - Adjust settings to process shorter inputs faster 
+  - Store frequently used responses to avoid repeating the same processing  
+  - Fine-tune the response settings to make replies more efficient
 
 ---
 
